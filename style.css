@@ -1,0 +1,61 @@
+.heading 
+{
+  font-size: 10px;
+  width: 100%;
+}
+
+#ai_mario_game
+{
+    font-size: 30px;
+}
+
+.button_ins 
+{
+  margin-left: 1400px;
+  color: white;
+  font-size: medium;
+}
+
+.big_img
+{
+    width: 1250px;
+    height: 625px; 
+}
+
+#play 
+{
+    font-size: medium;
+}
+
+h4 
+{
+  background-color: #f5f5f5;
+  line-height: 2;
+  margin: 0px;
+}
+
+.modal-dialog
+{
+  width: 90%;
+}
+
+.instruction_image
+{
+  display: inline-block;
+  width: 45%;
+}
+
+.instruction_heading
+{
+  background-color: tomato;
+  color: #f5f5f5;
+  width: 10%;
+}
+
+video
+{
+  background: url('game_console.png');
+  background-size:cover;
+  background-position: center;
+  padding: 25px;
+}
